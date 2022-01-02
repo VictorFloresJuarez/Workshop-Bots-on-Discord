@@ -1,19 +1,19 @@
 # Bots en Discord
 
 
-## Qué son?
+### Qué son?
 
 
-## Tipos de bots
+### Tipos de bots
 
 
-## Algunos ejemplos
+### Algunos ejemplos
 
 
-## Una alternativa para trabajar con bots
+### Una alternativa para trabajar con bots
 
 
-## Otras alternativas
+### Otras alternativas
 
 
 
