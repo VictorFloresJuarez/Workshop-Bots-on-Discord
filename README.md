@@ -20,7 +20,7 @@
 # Proceso de creación
 
 - [Proceso completo]()
-- [Indice de pasos]()
+- [Índice de pasos]()
 - [Explicación profunda de elementos básicos]()
 
 
