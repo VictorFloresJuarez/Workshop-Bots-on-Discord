@@ -30,4 +30,7 @@
 - [Embed](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Extras/Embed.md)
 - [Funciones de audio](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Extras/Funciones%20de%20audio.md)
 
+
+# Contacto
+
 Si tienes alguna aportación, como alguna corrección, sugerencia para mejorar algún proceso o directamente funciones que te gustaría compartir para que se incluyan en este repositorio puedes escribirme a mi Discord personal: Pachas#9092
