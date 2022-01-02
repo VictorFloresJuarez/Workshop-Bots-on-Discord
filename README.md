@@ -21,7 +21,7 @@
 
 - [Proceso completo]()
 - [Índice de pasos]()
-- [Explicación profunda de elementos básicos]()
+- [Explicación profunda de elementos básicos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Proceso%20de%20creaci%C3%B3n/Explicaci%C3%B3n%20de%20elementos.md)
 
 
 # Extras
