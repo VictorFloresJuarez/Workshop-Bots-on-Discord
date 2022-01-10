@@ -1,1 +1,0 @@
-# Explicación profunda de elementos
