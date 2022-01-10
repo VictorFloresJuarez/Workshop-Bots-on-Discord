@@ -1,36 +1,36 @@
-# Bots en Discord
+# Bots on Discord
 
 
-### ¿Qué son?
+### What is it?
 
 
-### Tipos de bots
+### Types of bots
 
 
-### Algunos ejemplos
+### Some examples
 
 
-### Una alternativa para trabajar con bots
+### An alternative for working with bots
 
 
-### Otras alternativas
+### Other alternatives
 
 
 
-# Proceso de creación
+# Creation process
 
-- [Proceso completo](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Complete%20process.md)
-- [Índice de pasos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Index%20of%20steps.md)
-- [Explicación profunda de elementos básicos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Explanation%20of%20elements.md)
+- [Complete process](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Complete%20process.md)
+- [Index of steps](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Index%20of%20steps.md)
+- [In-depth explanation of basic elements](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Explanation%20of%20elements.md)
 
 
-# Extras
+# Extra
 
-- [Uso de base de datos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Database%20usage.md)
+- [Database usage](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Database%20usage.md)
 - [Embed](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Embed.md)
-- [Funciones de audio](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Audio%20functions.md)
+- [Audio functions](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Audio%20functions.md)
 
 
-# Contacto
+# Contact
 
-Si tienes alguna aportación, como alguna corrección, sugerencia para mejorar algún proceso o directamente funciones que te gustaría compartir para que se incluyan en este repositorio puedes escribirme a mi Discord personal: Pachas#9092
+If you have any contribution, such as any correction, suggestion to improve any process or directly functions that you would like to share to be included in this repository you can write me to my personal Discord: Pachas#9092
