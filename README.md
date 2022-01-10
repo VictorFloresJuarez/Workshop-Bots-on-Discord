@@ -19,16 +19,16 @@
 
 # Proceso de creación
 
-- [Proceso completo](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Proceso%20de%20creaci%C3%B3n/Proceso%20completo.md)
-- [Índice de pasos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Proceso%20de%20creaci%C3%B3n/%C3%8Dndice%20de%20pasos.md)
-- [Explicación profunda de elementos básicos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Proceso%20de%20creaci%C3%B3n/Explicaci%C3%B3n%20de%20elementos.md)
+- [Proceso completo](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Complete%20process.md)
+- [Índice de pasos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Index%20of%20steps.md)
+- [Explicación profunda de elementos básicos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Creation%20process/Explanation%20of%20elements.md)
 
 
 # Extras
 
-- [Uso de base de datos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Extras/Uso%20de%20base%20de%20datos.md)
-- [Embed](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Extras/Embed.md)
-- [Funciones de audio](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Secciones/Extras/Funciones%20de%20audio.md)
+- [Uso de base de datos](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Database%20usage.md)
+- [Embed](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Embed.md)
+- [Funciones de audio](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Audio%20functions.md)
 
 
 # Contacto
