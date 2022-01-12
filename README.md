@@ -1,4 +1,4 @@
-# Bots on Discord ![discord_logo](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/discord_logo.png?raw=true)
+# Bots on Discord 
 
 
 ### What is it?
@@ -7,6 +7,12 @@ Discord bots are one of its most popular 'features'. We can understand them as p
 
 ### Types of bots
 
+The types of bots available for the platform are multiple, due to the variety of functions that each one can perform. But if we have to group them by the common among them, we can say that there are 3 types of bots:
+- Text bots: bots whose functions are mainly oriented to text messages only, an example are the bots that search for things for you.
+- Audio bots: Bots whose functions are mainly oriented to audio, an example are the bots that play music on your servers.
+- General administration bots: Bots whose functions are oriented to support administrators to have a greater control of their servers, these bots can be found mainly in large servers, where there cannot be so many moderators managing the server and its members.
+
+Translated with www.DeepL.com/Translator (free version)
 
 ### Some examples
 
