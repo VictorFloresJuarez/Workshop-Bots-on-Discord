@@ -26,19 +26,19 @@ Some of the most popular bots on Discord are:
 
 The alternative that we present for the creation of your first bot on Discord is the following: 
 
-- For the creation of the bot we will use the free tool Discord Developer Portal.
+- For the creation of the bot we will use the free tool [Discord Developer Portal](https://discord.com/developers/applications).
 
-- For the coding of the bot we will use the free tool replit (Python).
+- For the coding of the bot we will use the free tool [replit](https://replit.com/~) (Python).
 
-- For bot monitoring we will use the free tool UptimeRobot.
+- For bot monitoring we will use the free tool [UptimeRobot](https://uptimerobot.com/login?rt=https://uptimerobot.com/dashboard#789413743).
 
 Having mentioned this, the requirements for this alternative are:
 
-- A Discord account.
+- [A Discord account.](https://discord.com/)
 
-- A replit account.
+- [A replit account.](https://replit.com/signup)
 
-- An UptimeRobot account.
+- [An UptimeRobot account.](https://uptimerobot.com/signUp)
 
 
 ### Other alternatives
