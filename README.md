@@ -14,6 +14,11 @@ The types of bots available for the platform are multiple, due to the variety of
 
 ### Some examples
 
+Some of the most popular bots on Discord are:
+- MEE6
+- Ayana
+- GameStats
+- TwitchBot
 
 ### An alternative for working with bots
 
