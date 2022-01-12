@@ -12,7 +12,7 @@ The types of bots available for the platform are multiple, due to the variety of
 - Audio bots: Bots whose functions are mainly oriented to audio, an example are the bots that play music on your servers.
 - General administration bots: Bots whose functions are oriented to support administrators to have a greater control of their servers, these bots can be found mainly in large servers, where there cannot be so many moderators managing the server and its members.
 
-### Some examples
+### Examples
 
 Some of the most popular bots on Discord are:
 - [MEE6](https://mee6.xyz/)
