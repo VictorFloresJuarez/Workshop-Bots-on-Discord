@@ -3,6 +3,8 @@
 
 ### What is it?
 
+![discord_logo](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/discord_logo.png?raw=true)
+Discord bots are one of its most popular 'features'. We can understand them as profiles controlled by a computer that owe their behavior to a series of sentences made by a programmer.
 
 ### Types of bots
 
