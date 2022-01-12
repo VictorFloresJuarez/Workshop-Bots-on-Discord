@@ -36,7 +36,7 @@ Having mentioned this, the requirements for this alternative are:
 
 - [A Discord account.](https://discord.com/)
 
-- [A replit account.](https://replit.com/signup)
+- [A Replit account.](https://replit.com/signup)
 
 - [An UptimeRobot account.](https://uptimerobot.com/signUp)
 
