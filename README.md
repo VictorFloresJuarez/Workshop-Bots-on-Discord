@@ -1,9 +1,17 @@
 # Bots on Discord 
 
 
+
+
+
+
 ### What is it?
 
 Discord bots are one of its most popular 'features'. We can understand them as profiles controlled by a computer that owe their behavior to a series of sentences made by a programmer.
+
+
+
+
 
 ### Types of bots
 
@@ -12,6 +20,10 @@ The types of bots available for the platform are multiple, due to the variety of
 - Audio bots: Bots whose functions are mainly oriented to audio, an example are the bots that play music on your servers.
 - General administration bots: Bots whose functions are oriented to support administrators to have a greater control of their servers, these bots can be found mainly in large servers, where there cannot be so many moderators managing the server and its members.
 
+
+
+
+
 ### Examples
 
 Some of the most popular bots on Discord are:
@@ -19,6 +31,10 @@ Some of the most popular bots on Discord are:
 - [Ayana](https://ayana.io/)
 - [GameStats](https://gamestats.gg/)
 - [Streamcord](https://streamcord.io/twitch/)
+
+
+
+
 
 ### An alternative for working with bots
 
@@ -41,7 +57,12 @@ Having mentioned this, the requirements for this alternative are:
 - An UptimeRobot account.
 
 
+
+
+
 ### Other alternatives
+
+
 
 
 
