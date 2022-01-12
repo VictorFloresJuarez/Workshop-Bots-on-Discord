@@ -28,9 +28,7 @@ The alternative that we present for the creation of your first bot on Discord is
 
 - For the creation of the bot we will use the free tool Discord Developer Portal.
 
-
-- For the coding of the bot we will use the free tool replit.
-
+- For the coding of the bot we will use the free tool replit (Python).
 
 - For bot monitoring we will use the free tool UptimeRobot.
 
@@ -45,6 +43,13 @@ Having mentioned this, the requirements for this alternative are:
 
 ### Other alternatives
 
+In other alternatives we have:
+
+- For the case of coding we can also use JavaScript.
+
+- For the IDE, you can use the one you like; however, we recommend that for your first bot you use replit for certain features it provides.
+
+- For the bot monitoring you can use any page that provides the same functionalities as UptimeRobot. 
 
 # Creation process
 
