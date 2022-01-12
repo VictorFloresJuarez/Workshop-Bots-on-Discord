@@ -16,9 +16,9 @@ The types of bots available for the platform are multiple, due to the variety of
 
 Some of the most popular bots on Discord are:
 - [MEE6](https://mee6.xyz/)
-- Ayana
-- GameStats
-- TwitchBot
+- [Ayana](https://ayana.io/)
+- [GameStats](https://gamestats.gg/)
+- [Streamcord](https://streamcord.io/twitch/)
 
 ### An alternative for working with bots
 
