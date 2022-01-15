@@ -8,4 +8,4 @@ In Discord Developer Portal click on New Application and give it a name, this wi
 
 ![captura1](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura1.png?raw=true)
 ----------------------------------------------------------------------------------------------------------------------
-![captura2](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura2.png?raw=true)
+![captura2](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura2.png?raw=true)a
