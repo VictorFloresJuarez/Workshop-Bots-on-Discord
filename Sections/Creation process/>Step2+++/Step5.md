@@ -1,4 +1,4 @@
-# Step 5: Keep our bot active.
+# Step 5: Keep our bot active and monitor it.
 
 
 
@@ -41,6 +41,8 @@ Your main.py file should look like this:
 ![captura18](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura18.png?raw=true)
 
 Stop the bot execution and run it again, from now on the bot should not shut down, try closing the repl of your bot.
+Now, to monitor if your bot is active [click here]() (this is optional, does not affect the behavior of your bot)
+
 
 ## [Next step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2%2B%2B%2B/Step6.md)
 ## [Previous step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2%2B%2B%2B/Step4.md)
