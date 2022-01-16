@@ -9,4 +9,5 @@ In the application you just created click on 'Bot'. Then click on 'Add Bot' and 
 ![captura5](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura5.png?raw=true)
 
 
-## [Step 3](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2+++/Step3.md)
+## [Next step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2+++/Step3.md)
+## [Previous step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/Complete%20process.md)
