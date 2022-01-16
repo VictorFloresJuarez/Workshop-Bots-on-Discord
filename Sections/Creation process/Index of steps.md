@@ -10,7 +10,9 @@
 
 
 [Step 3 (Invite your bot to a server)](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2+++/Step3.md)
+
 ![captura8](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura8.png?raw=true)
+
 ----------------------------------------------------------------------------------------------------------------------
 
 
