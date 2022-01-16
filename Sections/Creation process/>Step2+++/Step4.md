@@ -35,3 +35,7 @@ Now please copy and paste this code (paste it at the end of the main file):
     @client.event
     async def on_ready():
         print('Se ha iniciado el {0.user}'.format(client))
+
+Your main file should look like this:
+
+![captura14](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura14.png?raw=true)
