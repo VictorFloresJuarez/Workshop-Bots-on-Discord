@@ -12,3 +12,13 @@ Now, in the Replit project you just created go to the 'Secrets' section, in key 
 
 ![captura12](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura12.png?raw=true)
 ----------------------------------------------------------------------------------
+
+Now we will work in the main.py file, we will add several things, please follow this order:
+- Perform the discord import with this statement: import discord
+- Perform the import to use secrets: import os
+- Assign to a variable the value you saved with the key 'TOKEN': my_secret = os.environ['TOKEN']
+- Add the following statement: client = discord.Client()
+
+If you did everything correctly your main.py file should look like this:
+
+![captura13](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura13.png?raw=true)
