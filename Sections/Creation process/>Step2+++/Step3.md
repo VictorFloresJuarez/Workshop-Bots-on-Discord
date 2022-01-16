@@ -4,7 +4,7 @@ In the OAuth2 section, click on URL Generator.
 
 ![captura6](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura6.png?raw=true)
 ---------------------------------------------------------------------------------------------------------------------
-In Scopes select bot, then select the permissions that your bot will have, in this step we recommend that you stop to see the [detailed explanation of the permissions](). 
+In Scopes select bot, then select the permissions that your bot will have, in this step we recommend that you stop to see the [detailed explanation of the permissions](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2%2B%2B%2B/permissions.md). 
 
 ![captura7](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura7.png?raw=true)
 ---------------------------------------------------------------------------------------------------------------------
