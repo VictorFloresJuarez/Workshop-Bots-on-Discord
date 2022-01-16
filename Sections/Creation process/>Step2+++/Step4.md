@@ -29,3 +29,9 @@ Here is the code for you to copy and paste if you wish:
     import os
     my_secret = os.environ['TOKEN']
     client = discord.Client()
+
+Now please copy and paste this code (paste it at the end of the main file):
+
+    @client.event
+    async def on_ready():
+        print('Se ha iniciado el {0.user}'.format(client))
