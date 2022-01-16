@@ -48,3 +48,4 @@ what you are actually doing is saying
 
     on_message = client.event(on_message)
 
+You can find all the information related with discord.py if you [click here](https://discordpy.readthedocs.io/en/stable/)
