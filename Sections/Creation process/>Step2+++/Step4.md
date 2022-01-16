@@ -50,3 +50,6 @@ With this click on Run, for being the first time it will take a little time to r
 ![captura15](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura15.png?raw=true)
 
 ![captura16](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura16.png?raw=true)
+
+# [Next step]()
+# [Previous step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2+++/Step3.md)
