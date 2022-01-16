@@ -22,3 +22,10 @@ Now we will work in the main.py file, we will add several things, please follow 
 If you did everything correctly your main.py file should look like this:
 
 ![captura13](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura13.png?raw=true)
+
+Here is the code for you to copy and paste if you wish:
+
+  import discord
+  import os
+  my_secret = os.environ['TOKEN']
+  client = discord.Client()
