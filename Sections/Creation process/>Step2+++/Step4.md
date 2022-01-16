@@ -8,4 +8,5 @@ Now in Discord Developer Portal, in the 'Bot' section copy the Token.
 ----------------------------------------------------------------------------------
 Now, in the Replit project you just created go to the 'Secrets' section, in key enter 'TOKEN' and in value paste what you just copied. Then click on 'Add new secret'.
 ![captura11](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura11.png?raw=true)
+![captura12](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura12.png?raw=true)
 ----------------------------------------------------------------------------------
