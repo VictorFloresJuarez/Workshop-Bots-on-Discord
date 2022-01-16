@@ -40,6 +40,7 @@ Your main.py file should look like this:
 
 ![captura18](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura18.png?raw=true)
 
+Stop the bot execution and run it again, from now on the bot should not shut down, try closing the repl of your bot.
 
 ## [Next step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/tree/main/Sections/Creation%20process/%3EStep2+++)
 ## [Previous step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2%2B%2B%2B/Step4.md)
