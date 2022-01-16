@@ -39,3 +39,7 @@ Now please copy and paste this code (paste it at the end of the main file):
 Your main file should look like this:
 
 ![captura14](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura14.png?raw=true)
+
+Now paste this statement at the end of your code: 
+
+    client.run(my_secret)
