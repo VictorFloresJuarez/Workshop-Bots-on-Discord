@@ -8,7 +8,7 @@ Now we are going to keep our bot active 24/7.
 
 First create a new file, the name of it doesn't matter, just make sure it's a .py file. 
 
-![captura17](?raw=true)
+![captura17](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura17.png?raw=true)
 
 Now copy and paste this code into the new file you created:
 
@@ -33,3 +33,11 @@ Now in your main.py file perform the following import:
     from 'filename' import keep_alive. 
 
 Where is 'filename' enter the name you gave to your new file.
+
+Now enter the following code in the penultimate line of code: 
+
+    keep_alive()
+
+Your main.py file should look like this:
+
+![captura18](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura18.png?raw=true)
