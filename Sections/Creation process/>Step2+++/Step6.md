@@ -21,4 +21,6 @@ And that's it, with the following sentences you can modify at will the parts in 
     if message.content.startswith('AMOGUS'):
         await message.channel.send('SUS')
 
+You can also add multiple times the above code so that you have different commands.
+
 ## [Previous step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2%2B%2B%2B/Step4.md)
