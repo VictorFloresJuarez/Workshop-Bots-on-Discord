@@ -1,7 +1,6 @@
 # Step 4: Activate bot
 
 Create a new project in Replit, in the language select Python and give it a name. 
-
 ![captura9](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura9.png?raw=true)
 ----------------------------------------------------------------------------------
 Now in Discord Developer Portal, in the 'Bot' section copy the Token.
