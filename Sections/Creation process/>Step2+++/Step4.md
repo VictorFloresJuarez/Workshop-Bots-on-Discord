@@ -43,3 +43,10 @@ Your main file should look like this:
 Now paste this statement at the end of your code: 
 
     client.run(my_secret)
+
+With this click on Run, for being the first time it will take a little time to run, but you will notice how, once it runs, your bot is now online.
+
+
+![captura15](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura15.png?raw=true)
+
+![captura16](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura16.png?raw=true)
