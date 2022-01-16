@@ -25,7 +25,7 @@ If you did everything correctly your main.py file should look like this:
 
 Here is the code for you to copy and paste if you wish:
 
-  import discord
-  import os
-  my_secret = os.environ['TOKEN']
-  client = discord.Client()
+    import discord
+    import os
+    my_secret = os.environ['TOKEN']
+    client = discord.Client()
