@@ -27,3 +27,9 @@ Now copy and paste this code into the new file you created:
     def keep_alive():
       t = Thread(target=run)
       t.start()
+
+Now in your main.py file perform the following import:
+
+    from 'filename' import keep_alive. 
+
+Where is 'filename' enter the name you gave to your new file.
