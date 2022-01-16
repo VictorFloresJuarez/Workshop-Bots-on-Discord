@@ -5,7 +5,7 @@ To check if your bot is active we will use the UptimeRobot tool.
 First, in your bot project, if you did everything right so far you might see a URL above the message 'Hello, I am alive!', copy that URL.
 
 ![captura21](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura21.png?raw=true)
-Now go to [UptimeRobot](https://uptimerobot.com/).Once logged in, click on '+ Add New Monitor'.
+Now go to [UptimeRobot](https://uptimerobot.com/). Once logged in, click on '+ Add New Monitor'.
 
 ![captura20](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura20.png?raw=true)
 
