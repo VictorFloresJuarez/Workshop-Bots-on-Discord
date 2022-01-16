@@ -51,5 +51,5 @@ With this click on Run, for being the first time it will take a little time to r
 
 ![captura16](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura16.png?raw=true)
 
-# [Next step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2%2B%2B%2B/Step5.md)
-# [Previous step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2+++/Step3.md)
+## [Next step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2%2B%2B%2B/Step5.md)
+## [Previous step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2+++/Step3.md)
