@@ -28,7 +28,7 @@ The alternative that we present for the creation of your first bot on Discord is
 
 - For the creation of the bot we will use the free tool [Discord Developer Portal](https://discord.com/developers/applications).
 
-- For the coding of the bot we will use the free tool [replit](https://replit.com/~) (Python).
+- For the coding of the bot we will use the free tool [Replit](https://replit.com/~) (Python).
 
 - For bot monitoring we will use the free tool [UptimeRobot](https://uptimerobot.com/login?rt=https://uptimerobot.com/dashboard#789413743).
 
