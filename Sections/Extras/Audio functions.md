@@ -15,3 +15,8 @@ The first thing we're gonna is create our main.py and then import discord.py so 
  After this, we need to create a new file and we're going to call it music.py. On this file, we need to import discord.py again and also import youtube.dl, basically so we can work with youtube videos and music. If you want to read more about youtube.dl, you can search more information [here](https://en.wikipedia.org/wiki/Youtube-dl). Finally, your music.py file should look like this:
  
 ![music](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso4.music.png?raw=true)
+
+## Step 5: Start the coding
+First, we need to initialize our class music adding the class music and the setup function.
+
+![inicializar](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso5.inicializar.png?raw=true)
