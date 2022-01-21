@@ -17,6 +17,14 @@ The first thing we're gonna is create our main.py and then import discord.py so 
 ![music](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso4.music.png?raw=true)
 
 ## Step 5: Start the coding
-First, we need to initialize our class music adding the class music and the setup function.
+First, we need to create a class cog music and then, add the setup function as a cog.
+// A cog is a file generation tool. It lets you use pieces of Python code as generators in your source files to generate whatever text you need!
 
 ![inicializar](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso5.inicializar.png?raw=true)
+
+Then we need to go back to the main.py and import music as a cog and create a list called music and include all the cogs we have.
+// and setup the cogs (delete)
+
+![inicializar](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso5.cogs.png?raw=true)
+
+
