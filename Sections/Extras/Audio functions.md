@@ -46,6 +46,11 @@ Finally, we just need to add the PAUSE & RESUME commands, you should already kno
 
 ![pauseresume](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso6.pauseresume.png?raw=true)
 
-## Step 7: Fixing mistakes
+At last, the only thing missing is the PynaCl library. This is the library needed to work with voice. Go to packages, search for PyNaCl and click on Install Package. It could take a while but it will hopefully work!
 
+![pynacl](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso6.addpynacl.png?raw=true)
+
+And then we're done! You just need to click on Run to make the bot work! Hopefully the code will run perfectly.
+
+![final](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso7ti.png?raw=true)
 
