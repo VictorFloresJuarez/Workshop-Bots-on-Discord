@@ -11,4 +11,4 @@ First, analyze carefully if your bot really needs any of these permissions, beca
 
 Don't worry if your bot needs more permissions in the future, you can always update its permissions list.
 
-Translated with www.DeepL.com/Translator (free version)
+
