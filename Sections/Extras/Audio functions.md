@@ -33,8 +33,11 @@ Back in the class music, we need to add a JOIN COMMAND so the bot can join the v
 ![joindisconnect](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso6joindisconnect.png?raw=true)
 
 Past that, we will add the PLAY COMMAND to play any song on youtube you want with a link. Something you need to know for the following coding:
+
 FFMPEG_OPTIONS handles the streaming in discord.
+
 YDL_OPTIONS makes the bot play each song in the best audio format posible.
+
 The "with youtube_dl.YoutubeDL(YDL_OPTIONS) as ydl:" block works to create a String to play the audio.
 
 ![play](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso6play.png?raw=true)
