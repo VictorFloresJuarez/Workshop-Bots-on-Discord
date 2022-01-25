@@ -54,3 +54,4 @@ And then we're done! You just need to click on Run to make the bot work! Hopeful
 
 ![final](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/paso7ti.png?raw=true)
 
+You'll probably want to keep the bot always active so you don't need to go back to Replit and run it, but I'll leave that up to you. If you need help, please go back to the [Keep our bot active step](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Sections/Creation%20process/%3EStep2%2B%2B%2B/Step5.md)
