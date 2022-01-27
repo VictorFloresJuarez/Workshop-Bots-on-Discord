@@ -60,7 +60,6 @@ In other alternatives we have:
 
 # Extra
 
-- [Database usage](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Database%20usage.md)
 - [Embed](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Embed.md)
 - [Audio functions](https://github.com/VictorFloresJuarez/Workshop-Bots-en-Discord/blob/main/Sections/Extras/Audio%20functions.md)
 
