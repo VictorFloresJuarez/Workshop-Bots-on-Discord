@@ -12,15 +12,16 @@ As you can see, the message that the bot will reply with is: 'I replied you', le
 
 First we need to assign to a variable the message we want to send. Use the following code example:
 
-mensaje = 'I replied you'
+    mensaje = 'I replied you'
 
 Now, you are going to create the Embed using the following statement:
-embed = discord.Embed(title= message)
+
+    embed = discord.Embed(title= message)
 
 
 Then place this statement:
 
-message= await message.channel.send(embed=embed)
+    message= await message.channel.send(embed=embed)
 
 Remember to replace the variables 'mensaje' and 'embed' if you renamed them.
 
@@ -29,5 +30,3 @@ Your code should now look like this:
 ![capture25](https://github.com/VictorFloresJuarez/Workshop-Bots-on-Discord/blob/main/Resources/captura25.png?raw=true)
 
 And that's it, test your bot using the command to see the difference. 
-
-Translated with www.DeepL.com/Translator (free version)
